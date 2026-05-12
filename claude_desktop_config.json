@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "litellm": {
+      "command": "/Users/mubashirosmani/l/litellm-mcp/.venv/bin/litellm-mcp",
+      "env": {
+        "LITELLM_BASE_URL": "http://localhost:4000",
+        "LITELLM_API_KEY": "sk-your-master-key"
+      }
+    }
+  }
+}
